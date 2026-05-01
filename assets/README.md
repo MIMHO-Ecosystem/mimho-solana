@@ -17,8 +17,36 @@ Recommended assets include:
 
 Suggested structure:
 
-```text
 logo.png
 icon.png
 banner.png
 social-preview.png
+
+## Asset Requirements
+
+Assets should be:
+
+- clear
+- high quality
+- readable at small size
+- consistent with the MIMHO brand
+- appropriate for public launch platforms
+- appropriate for social media
+
+## Token Image
+
+The token image used in metadata should be uploaded to a stable public location.
+
+The final metadata file should reference the public image URL.
+
+## Branding
+
+Official slogan:
+
+MIMHO – a Meme Coin do Futuro
+
+## Notice
+
+Do not upload misleading, copyrighted or unauthorized assets.
+
+Only use assets approved for the MIMHO ecosystem.
