@@ -6,7 +6,7 @@
 |---|---|
 | Name | MIMHO |
 | Symbol | MIMHO |
-| Slogan | MIMHO – a Meme Coin do Futuro |
+| Slogan | MIMHO – The Memecoin of the Future |
 | Network | Solana |
 | Launch type | Public launchpad flow |
 | Custom Solana program | No |
