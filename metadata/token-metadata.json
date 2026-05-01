@@ -1,0 +1,25 @@
+{
+  "name": "MIMHO",
+  "symbol": "MIMHO",
+  "description": "MIMHO – The Memecoin of the Future. A cross-chain meme ecosystem starting with a public Solana community launch.",
+  "image": "REPLACE_WITH_FINAL_IMAGE_URL",
+  "external_url": "REPLACE_WITH_OFFICIAL_SITE_URL",
+  "attributes": [
+    {
+      "trait_type": "Ecosystem",
+      "value": "Cross-chain meme"
+    },
+    {
+      "trait_type": "Launch",
+      "value": "Solana public launch"
+    },
+    {
+      "trait_type": "Custom Solana Program",
+      "value": "No"
+    },
+    {
+      "trait_type": "BSC V2",
+      "value": "Security hardening"
+    }
+  ]
+}
